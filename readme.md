@@ -1,6 +1,6 @@
 # Simple maven project with Continuous Integration
 
-This is a java project boilerplate used in `devops1_dockerized_env` branch.
+This is a simple test project that you can use with the repo [here](https://github.com/ayoubensalem/Dockerized-CI-CD-Environment).
 
 # Maintainer
 
