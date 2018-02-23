@@ -46,12 +46,12 @@
 
   <distributionManagement>
     <repository>
-        <id>devops1-releases</id>
-        <url>http://nexus:8081/repository/devops1-releases/</url>
+        <id>nexus-releases</id>
+        <url>http://nexus:8081/repository/nexus-releases/</url>
     </repository>
      <snapshotRepository>
-        <id>devops1-snapshots</id>
-        <url>http://nexus:8081/repository/devops1-snapshots/</url>
+        <id>nexus-snapshots</id>
+        <url>http://nexus:8081/repository/nexus-snapshots/</url>
      </snapshotRepository>
   </distributionManagement>
 
